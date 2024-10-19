@@ -1,0 +1,5 @@
+Mi IP publica es: 
+190.19.160.195Mi usuario es: 
+vagrant
+El hash de mi usuario es: 
+$y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2
